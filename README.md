@@ -10,10 +10,13 @@
 
 [👥 Customer Insights | page 2](#-customer-insights--page-2)
 
-[🛍️ Product performance | page 3](-product-performance--page-3)
+[🛍️ Product performance | page 3](#-product-performance--page-3)
 
 [🏬 Store performance | page 4](#-store-performance--page-4)
 
+[Strategic Recommendations](#strategic-recommendations)
+
+[Comclusiom](conclusion)
 
 ## Project Overview
 This project analyzes five years (2020–2024) of retail fashion data to evaluate financial performance, customer behavior, product dynamics, and store efficiency using Power BI.
@@ -432,3 +435,15 @@ Revenue and profit are distributed fairly evenly across product categories, with
 
 5. Evaluate Store Format Efficiency
 Store analysis shows that smaller stores tend to generate higher revenue per square meter compared to larger locations. While overall store performance remains balanced, this pattern suggests that compact retail formats may offer better space efficiency and could be considered when evaluating future store expansion strategies.
+
+### Conclusion
+
+The five-year analysis of retail sales data (2020–2024) reveals a business with stable financial performance and consistent profitability. Revenue remained within a relatively narrow range across the period, while profit margins stayed close to 60%, indicating effective cost control and pricing stability.
+
+Customer behavior shows strong reliance on registered and repeat customers, highlighting the importance of loyalty in driving revenue. Spending is primarily concentrated among customers aged 25–54, suggesting that this group represents the retailer’s core customer base.
+
+From a product perspective, revenue is well distributed across categories, seasons, and suppliers, demonstrating a balanced product strategy that reduces dependence on any single category or vendor. Seasonal performance also remains relatively stable, indicating consistent demand throughout the year.
+
+Store-level analysis further supports this stability, with revenue distributed fairly evenly across locations and regions. While smaller stores appear to achieve higher space efficiency, overall store performance differences remain relatively small.
+
+Overall, the findings suggest that the retailer operates with a balanced product portfolio, loyal customer base, and stable operational structure, providing a strong foundation for sustained performance.
