@@ -193,12 +193,14 @@ Revenue from guest %: 3.66%
 Registered customers overwhelmingly dominate revenue generation throughout the period.
 - Registered customers: ~96.9% – 96.93% of total revenue
 - Guest customers: ~3.37% – 4.1% of total revenue
+
 This indicates that the business relies heavily on returning customers rather than one-time purchases, suggesting strong brand trust and an effective customer retention strategy.
 
 ###### Gender Preferences
 Purchasing patterns show a slight but consistent male skew.
 - Male revenue share: 50.55% – 51.64%
 - Female revenue share: 48.56% – 49.45%
+
 Although the gap is small, male customers consistently generated slightly more revenue across all years.
 
 ###### Revenue by Age Group
@@ -221,3 +223,155 @@ Lower-performing segments included:
 
 Both remained below $2 million in total revenue, while under-18 customers contributed the least, generating well under $1 million across the five-year period.
 This pattern shows that the retailer’s core customer base is concentrated among young professionals and middle-aged shoppers, while younger teens and seniors contribute significantly less to total sales.
+
+###### Revenue by City
+Revenue is well distributed across major cities, indicating strong geographic coverage.
+- Lisbon led revenue from 2020 to 2023
+- Porto became the top-performing city in 2024.
+
+Despite these leadership changes, overall city performance remained very close. Across the five-year period:
+- Lisbon
+- Faro
+- Braga
+- Coimbra
+- Porto
+
+all generated total revenue within a narrow range of $2.44M to $2.61M.
+
+###### 🔎 Key Insights
+- The business relies heavily on registered customers, with nearly 97% of revenue coming from repeat buyers, highlighting strong customer loyalty.
+- Customers aged 25–54 represent the core market segment, consistently generating the majority of revenue across the five-year period.
+- Male customers contribute slightly more revenue than female customers, though the difference remains relatively small.
+- Revenue is evenly distributed across major cities, suggesting stable demand across locations rather than dependence on a single market.
+
+#### 🛍️ Product performance  (page 3)
+![image](https://github.com/user-attachments/assets/cc00d9ec-134c-4589-a720-0fca9f54c3b0)
+
+Product Performance analysis examines how different product categories, seasonal trends, suppliers, and product variations (size and color) contributed to overall revenue between 2020 and 2024.
+
+##### Questions answered
+- What is the total products purchased from 2020-2024?
+- What is the total cost of products purchased ?
+- How many orders were returned from 2020-2024?
+- Which product categories generate the strongest revenue and profit?
+- Is demand concentrated in specific category–size–color combinations?
+- How balanced is supplier contribution, and is there overreliance on any vendor?
+- Which season generates more sales?
+
+###### Key performance indicators (KPIs)
+Total products: 50k
+Total cost: $5.31M
+Returned orders: 5k
+Total revenue: $13M
+Profit margin: 59.72%
+
+###### Sales by category:
+
+Over the five-year period:
+- Tops generated the highest total revenue at approximately $2.63M
+- Accessories followed closely with $2.63M
+- Shoes generated $2.61M
+- Dresses contributed about $2.58M
+- Bottoms recorded $2.57M
+
+The difference between the highest and lowest category revenue is relatively small (around $64K), indicating that the product catalog performs consistently across categories rather than relying heavily on a single product line.
+###### Profit Contribution by Category:
+Profit distribution mirrors the revenue trend, showing a balanced contribution across categories.
+
+Over the five-year period:
+- Shoes generated the highest total profit at approximately $1.57M
+- Tops followed closely with about $1.56M
+- Accessories contributed roughly $1.56M
+- Dresses produced around $1.53M
+- Bottoms generated about $1.53M
+
+Profit margins remain remarkably consistent across categories, suggesting the company maintains stable pricing strategies and effective cost control across its product lines.
+
+From the yearly breakdown:
+- 2023 recorded the highest overall revenue and profit across most categories, making it the strongest year for product performance.
+- 2021 experienced a slight dip in revenue across several categories, particularly in Tops and Bottoms.
+- Revenue rebounded steadily from 2022 onwards, with most categories maintaining stable growth through 2024.
+
+Despite minor fluctuations, the product portfolio demonstrates consistent year-to-year stability, reinforcing the strength of the brand’s product mix.
+
+###### Sales by season:
+Seasonal performance shows that revenue is evenly distributed across the four seasons,
+Over the full period:
+- Summer generated the highest cumulative revenue at $3.30M
+- Winter followed extremely closely at $3.29M
+- Spring recorded $3.27M
+- Fall generated $3.26M
+
+The difference between the highest and lowest season is less than $40K, which is very small relative to the $13.13M total revenue.
+
+Year-by-year patterns show that:
+- Spring led in 2020, generating the strongest seasonal revenue.
+- Summer dominated 2021 and 2022, showing consistent demand during warmer months.
+- Summer remained the top performer again in 2023, contributing to the overall peak year for the business.
+- Winter slightly overtook other seasons in 2024, recording the strongest revenue that year.
+
+###### Supplier performance :
+Totals (2020–2024):
+- Supplier D → ~$3.30M (highest overall)
+- Supplier B → ~$3.29M
+- Supplier A → ~$3.28M
+- Supplier C → ~$3.26M 
+
+Revenue contribution across suppliers remains highly balanced over the five-year period, with minimal concentration risk.
+Supplier D leads overall contribution, closely followed by Suppliers B and A, while Supplier C trails slightly. However, the revenue gap between the highest and lowest supplier is marginal, indicating a diversified sourcing structure rather than dependency on a single vendor.
+
+Year-to-year fluctuations are present but not structural. For example:
+- Supplier B peaked strongly in 2023.
+- Supplier A showed consistent stability across all five years.
+- Supplier D experienced a dip in 2021 before recovering in subsequent years.
+
+
+###### Revenue across category–size–color :
+combinations shows moderate variation, with the highest-performing combination reaching approximately $102k and the lowest around $67k. Gap = about $35,775
+The relatively narrow gap suggests demand is distributed across multiple product variations rather than concentrated in a single dominant combination.
+
+###### Key Insights
+- Product revenue is evenly distributed across categories, with Tops, Accessories, and Shoes slightly outperforming other categories. The small gap between the highest and lowest performing category suggests that the retailer benefits from a well-balanced product portfolio rather than relying on a single product line.
+- Shoes generated the highest overall profit, indicating that this category may offer slightly stronger margins compared to other products, making it an important contributor to overall profitability.
+- Seasonal demand remains stable across all four seasons, with Summer and Winter showing marginally stronger performance. The minimal variation between seasonal sales suggests that the retailer experiences consistent year-round demand rather than heavy seasonal dependency.
+- Supplier sales contributions appear relatively balanced, indicating that the business is not overly dependent on a single supplier. This helps reduce supply chain risk and ensures product availability across categories.
+- Across most product dimensions—category, season, size, and color—sales patterns remain highly consistent, indicating a diversified product strategy and stable consumer demand.
+
+### 🏬 Store performance (page 4)
+![image](https://github.com/user-attachments/assets/0f8ea9ff-8d21-42e9-b851-947731ed3254)
+
+The Store Performance page evaluates how different regions, store locations, and store sizes contributed to revenue and profitability between 2020 and 2024. The analysis highlights geographic performance patterns, store-level leaders, and whether store size influences sales outcomes.
+
+##### Questions answered 
+- Whats the average revenue per store?
+- How many stores are in total?
+- which stores are doing best?
+- Does store size influence revenue performance?
+- Which regions and store locations contribute most to total revenue?
+
+###### Key performance indicators(KPIs)
+Total stores: 5
+Avg revenue per store: $2.63M
+Total Revenue: $13M
+Profit margin: 59.27%
+
+###### Sales and Profit by Store:
+At the individual store level, performance remains similarly balanced.
+
+Top-performing stores by total revenue:
+	1.	Faro Outlet → $2.65M revenue | $1.59M profit
+	2.	Lisbon Flagship → $2.65M revenue | $1.58M profit
+	3.	Coimbra Boutique → $2.60M revenue | $1.55M profit
+	4.	Online Store → $2.58M revenue | $1.54M profit
+	5.	Porto Center → $2.58M revenue | $1.54M profit
+
+Faro Outlet and Lisbon Flagship lead overall performance, though the revenue difference between the highest and lowest store is only about $73K, indicating a well-balanced store network.
+Profit margins remained consistently strong across all stores, averaging approximately 59.57%, reflecting effective cost management regardless of location.
+
+Year by year patterns shows that:
+- 2023 recorded the strongest overall performance, with most stores reaching their highest revenue and profit levels.
+- 2024 showed a slight moderation, particularly for the Online and Lisbon Flagship stores.
+- 2020–2022 remained relatively stable, with small fluctuations but no major declines.
+
+The Online store experienced its strongest year in 2023, generating approximately $555K in revenue, before declining slightly in 2024.
+
