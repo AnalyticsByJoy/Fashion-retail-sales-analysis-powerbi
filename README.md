@@ -18,7 +18,9 @@
 
 [Comclusion](conclusion)
 
-Dataset Used: https://www.kaggle.com/datasets/vanpatangan/retail-fashion-data?select=sales_data.csv
+**Dataset Used:** 
+<a
+href="https://www.kaggle.com/datasets/vanpatangan/retail-fashion-data?select=sales_data.csv">kaggle</a>
 
 ## Project Overview
 This project analyzes five years (2020–2024) of retail fashion data to evaluate financial performance, customer behavior, product dynamics, and store efficiency using Power BI.
