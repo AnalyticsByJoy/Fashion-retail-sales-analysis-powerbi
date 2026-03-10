@@ -1,6 +1,7 @@
 # Fashion Retail Sales Insights | Data Modeling, DAX & Performance Insights (2020–2024)
 
 ## Table Of Contents
+[📊 Sales Overview | page 1](#-sales-overview--page-1)
 
 [👥 Customer Insights | page 2](#-customer-insights--page-2)
 
