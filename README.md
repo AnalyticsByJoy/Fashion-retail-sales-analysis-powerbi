@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 
-[👥 Customer Insights | page 2](👥-Customer-Insights-|-page-2)
+[👥 Customer Insights | page 2](#customer-insights--page-2)
 
 
 
