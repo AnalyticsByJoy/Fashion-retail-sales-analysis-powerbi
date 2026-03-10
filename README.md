@@ -1,11 +1,18 @@
 # Fashion Retail Sales Insights | Data Modeling, DAX & Performance Insights (2020–2024)
 
 ## Table Of Contents
+[Project Overview](#project-overview)
+
+[Process](#process)
+
+### Project Insights:
 [📊 Sales Overview | page 1](#-sales-overview--page-1)
 
 [👥 Customer Insights | page 2](#-customer-insights--page-2)
 
+[🛍️ Product performance | page 3](#-product-performance--page-3)
 
+[🏬 Store performance | page 4](#-store-performance--page4)
 
 
 ## Project Overview
@@ -244,7 +251,7 @@ all generated total revenue within a narrow range of $2.44M to $2.61M.
 - Male customers contribute slightly more revenue than female customers, though the difference remains relatively small.
 - Revenue is evenly distributed across major cities, suggesting stable demand across locations rather than dependence on a single market.
 
-#### 🛍️ Product performance  (page 3)
+#### 🛍️ Product performance | page 3
 ![image](https://github.com/user-attachments/assets/cc00d9ec-134c-4589-a720-0fca9f54c3b0)
 
 Product Performance analysis examines how different product categories, seasonal trends, suppliers, and product variations (size and color) contributed to overall revenue between 2020 and 2024.
@@ -337,7 +344,7 @@ The relatively narrow gap suggests demand is distributed across multiple product
 - Supplier sales contributions appear relatively balanced, indicating that the business is not overly dependent on a single supplier. This helps reduce supply chain risk and ensures product availability across categories.
 - Across most product dimensions—category, season, size, and color—sales patterns remain highly consistent, indicating a diversified product strategy and stable consumer demand.
 
-### 🏬 Store performance (page 4)
+### 🏬 Store performance | page 4
 ![image](https://github.com/user-attachments/assets/0f8ea9ff-8d21-42e9-b851-947731ed3254)
 
 The Store Performance page evaluates how different regions, store locations, and store sizes contributed to revenue and profitability between 2020 and 2024. The analysis highlights geographic performance patterns, store-level leaders, and whether store size influences sales outcomes.
@@ -375,3 +382,53 @@ Year by year patterns shows that:
 
 The Online store experienced its strongest year in 2023, generating approximately $555K in revenue, before declining slightly in 2024.
 
+###### Store size performance :
+Smaller stores win on total revenue The 179 m² and 238 m² stores generated the highest cumulative revenue (~$2.65M each), tying or very close to the 336 m² group. Larger stores (728 m² and 950 m²) fell behind, with totals around $2.58M–$2.60M.
+
+Consistency across years Smaller sizes (179–336 m²) outperformed larger ones in every single year from 2020 to 2024. The gap was small in some years, but the pattern never reversed.
+
+Efficiency insight Smaller stores likely achieve higher revenue per square meter (a key retail KPI). For example:
+179 m² store → ~$14,830 per m² total
+950 m² store → ~$2,741 per m² total → Small stores are 5–6× more efficient per square meter of space.
+
+###### Store by region indicates: 
+- Algarve → $2.65M
+- Lisbon → $2.65M
+- Coimbra → $2.60M
+- Online → $2.58M
+- Porto → $2.58M
+
+Algarve and Lisbon emerge as the top-performing regions, each generating approximately $2.65M in cumulative revenue between 2020 and 2024. Coimbra follows closely with about $2.60M, while Porto and Online sales each contributed roughly $2.58M which is relatively narrow. This indicates a geographically diversified revenue base rather than dependency on a single high-performing market.
+
+That gap from highest to lowest?
+Roughly $73k across five years. Revenue contribution across regions remains highly balanced over the five-year period, with minimal variation between top and bottom performers.
+Year-to-year fluctuations exist (such as stronger Online performance in 2023), but no region shows structural decline or dominance.
+
+Overall, regional sales distribution reflects stable demand across physical locations and digital channels, reducing geographic concentration risk and reinforcing the business’s balanced market presence.
+
+###### Key Insights
+- Revenue is evenly distributed across regions, with Algarve and Lisbon only marginally ahead of Coimbra, Porto, and Online sales. This indicates the business is not overly dependent on a single geographic market.
+- Faro Outlet and Lisbon Flagship slightly outperform other stores, but the overall revenue gap between the highest and lowest-performing store is relatively small (about $73K), reflecting a balanced store portfolio.
+- 2023 was the strongest year for most stores, aligning with the overall company-wide revenue peak observed in the sales performance analysis.
+- Profit margins remain highly consistent across all stores (around 59%), suggesting strong operational control and stable pricing strategies.
+- Smaller store formats appear to outperform larger ones, indicating that location efficiency and customer traffic may drive performance more than store size alone.
+
+### Strategic Recommendations
+
+The analysis highlights several patterns that the business could explore to further optimize performance.
+
+1. Capitalize on High-Performing Months
+Sales trends show that May consistently records the strongest revenue and profit, while months such as February and November tend to be slightly weaker.
+The company could consider aligning marketing campaigns, promotions, or product launches around these seasonal patterns to maximize demand during peak periods and stimulate sales during slower months.
+
+2. Encourage Conversion of Guest Shoppers
+Although guest purchases represent only a small share of revenue (around 3–4%), converting these shoppers into registered customers could provide additional long-term value. Encouraging account creation during checkout or offering small loyalty incentives may help increase repeat purchases and improve customer tracking.
+
+3. Focus on Core Revenue-Driving Demographics
+Customers between the ages of 25 and 54 consistently contribute the largest share of revenue. This suggests that product offerings and marketing efforts aligned with this demographic could have the greatest impact on future sales growth.
+
+4. Maintain a Diversified Product Mix
+Revenue and profit are distributed fairly evenly across product categories, with Tops, Accessories, and Shoes slightly leading overall performance. This balanced distribution indicates that the retailer benefits from a diversified catalog, which helps reduce reliance on a single product category.
+
+5. Evaluate Store Format Efficiency
+Store analysis shows that smaller stores tend to generate higher revenue per square meter compared to larger locations. While overall store performance remains balanced, this pattern suggests that compact retail formats may offer better space efficiency and could be considered when evaluating future store expansion strategies.
