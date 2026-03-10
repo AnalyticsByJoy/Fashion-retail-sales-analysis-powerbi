@@ -10,7 +10,7 @@
 
 [👥 Customer Insights | page 2](#-customer-insights--page-2)
 
-[🛍️ Product performance | page 3](#-product-performance--page-3)
+[🛍️ Product performance | page 3](-product-performance--page-3)
 
 [🏬 Store performance | page 4](#-store-performance--page-4)
 
