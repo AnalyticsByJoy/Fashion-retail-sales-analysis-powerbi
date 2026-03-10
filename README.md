@@ -119,3 +119,50 @@ Over the five-year period (2020–2024), the fashion retail business generated s
 - Total Profit: $7.8M
 - Average Profit Margin: ~59.57%
 - Average order value : 262.63
+
+###### Yearly trends on revenue & profit:
+2020
+- Revenue: ~$2.64M
+- Profit: ~$1.559M
+- Profit Margin: ~59.14%
+- A strong baseline year with healthy  margins.
+  
+2021
+- Revenue: $2.59M (lowest year)
+- Profit: ~$1.536M
+- Profit Margin: ~59.41%
+- Slight revenue dip but profitability remained stable.
+
+2022
+- Revenue: ~$2.60M
+- Profit: ~$1.546M
+- Profit Margin: ~59.38%
+- Performance stabilized after the small decline in 2021.
+
+2023
+- Revenue: $2.68M (highest year)
+- Profit: $1.607M
+- Profit Margin: ~59.96%
+- Peak performance year with the highest sales and profitability.
+
+2024
+- Revenue: ~$2.63M
+- Profit: ~$1.577M
+- Profit Margin: ~59.94%
+- Slight normalization after the 2023 peak.
+
+###### Monthly trends on revenue and profit:
+
+2020 – July was the standout month, achieving $241,793 in revenue and $141,458 in profit, closely followed by October. February recorded the lowest performance ($201,598 revenue, $119,587 profit), showing early-year softness.
+
+2021 – May led in revenue ($234,871) while October captured the highest profit ($140,624). December was the weakest month for both revenue and profit, indicating year-end slowdown.
+
+2022 – May again dominated in both revenue ($237,848) and profit ($144,075), with March close behind. November was the lowest month ($194,545 revenue, $115,860 profit), suggesting end-of-year softness persisted.
+
+2023 – May continued as the strongest month ($241,585 revenue, $145,833 profit), followed by November. February was again the slowest ($198,308 revenue, $115,350 profit), consistent with prior years.
+
+2024 – May led once more ($238,093 revenue, $146,054 profit), with April slightly behind. November showed the lowest monthly figures ($207,859 revenue, $123,614 profit), continuing the end-of-year dip trend.
+
+###### Key Insight
+- Revenue fluctuated within a narrow band of $2.58M–$2.68M, showing strong operational stability. Profit margins remained consistently close to 60%, reflecting disciplined cost management and stable pricing strategy.
+- Across all five years, May consistently emerged as the strongest month for both revenue and profit, while February and November repeatedly showed lower sales, highlighting predictable seasonal dips. Despite these monthly fluctuations, the variation is modest, reinforcing the business’s stable operational performance.
