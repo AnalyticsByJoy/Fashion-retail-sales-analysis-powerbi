@@ -2,6 +2,8 @@
 
 ## Table Of Contents
 
+[👥 Customer Insights | page 2](👥-Customer-Insights-|-page-2)
+
 
 
 
@@ -103,7 +105,7 @@ Store[Store ID] → Sales[Store ID]
 
 ### Project Insights 
 
-#### 📊 Sales Overview (Financial performance) (page 1)
+#### 📊 Sales Overview | page 1
 ![image](https://github.com/user-attachments/assets/29f58199-979a-4fea-8efa-ab299cc31a89)
 
 Over the five-year period (2020–2024), the fashion retail business generated strong and consistent financial performance with stable profitability and minimal volatility.
@@ -166,3 +168,55 @@ Over the five-year period (2020–2024), the fashion retail business generated s
 ###### Key Insight
 - Revenue fluctuated within a narrow band of $2.58M–$2.68M, showing strong operational stability. Profit margins remained consistently close to 60%, reflecting disciplined cost management and stable pricing strategy.
 - Across all five years, May consistently emerged as the strongest month for both revenue and profit, while February and November repeatedly showed lower sales, highlighting predictable seasonal dips. Despite these monthly fluctuations, the variation is modest, reinforcing the business’s stable operational performance.
+
+### 👥 Customer Insights | page 2
+![image](https://github.com/user-attachments/assets/6893a706-cf7a-4ba4-b4a7-32e5e47c3606)
+
+The Customer Insights page explores who is driving revenue in the fashion retail business, highlighting patterns in customer loyalty, gender preferences, age group behavior, and geographic distribution across the 2020–2024 period.
+
+##### Questions answered 
+- How many total unique customers made purchases during the period from 2020-2024?
+- What is the average spending per customer?
+- Repeat customer rate % and revenue from guest % from?
+- What percentage of revenue comes from registered vs guest customers?
+- Which age groups and gender segments drive the highest sales contribution?
+- How is revenue distributed across major cities?
+
+###### Key performance indicators (KPI’s):
+Total unique customers: 25k
+Average spend per customer: $525.3
+Repeat customer Rate%: 56.83%
+Revenue from guest %: 3.66%
+
+###### Loyalty: Registered vs Guest Customers
+Registered customers overwhelmingly dominate revenue generation throughout the period.
+- Registered customers: ~96.9% – 96.93% of total revenue
+- Guest customers: ~3.37% – 4.1% of total revenue
+This indicates that the business relies heavily on returning customers rather than one-time purchases, suggesting strong brand trust and an effective customer retention strategy.
+
+###### Gender Preferences
+Purchasing patterns show a slight but consistent male skew.
+- Male revenue share: 50.55% – 51.64%
+- Female revenue share: 48.56% – 49.45%
+Although the gap is small, male customers consistently generated slightly more revenue across all years.
+
+###### Revenue by Age Group
+Customer spending varies significantly across age groups, with clear leaders emerging each year.
+- 2020: 35–44 age group generated the highest revenue
+- 2021: 55–64 age group led sales
+- 2022: 25–34 age group led sales
+- 2023: 35–44 age group led sales
+- 2024: 45–54 age group generated the highest revenue
+
+Across the entire period, the strongest-performing age segments were 25–54, with the following groups consistently generating over $2 million in cumulative revenue:
+- 25–34
+- 35–44
+- 45–54
+- 55–64
+
+Lower-performing segments included:
+- 18–24
+- 65+
+
+Both remained below $2 million in total revenue, while under-18 customers contributed the least, generating well under $1 million across the five-year period.
+This pattern shows that the retailer’s core customer base is concentrated among young professionals and middle-aged shoppers, while younger teens and seniors contribute significantly less to total sales.
