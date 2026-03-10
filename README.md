@@ -1,2 +1,2 @@
-# Fashion-retail-sales-analysis-powerbi
-Power BI dashboard analyzing fashion retail sales performance (2020–2024), including customer insights, product performance, and store efficiency.
+# Fashion Retail Business Project | Data Modeling, DAX & Performance Insights (2020–2024)
+
