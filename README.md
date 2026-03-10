@@ -104,6 +104,8 @@ Store[Store ID] → Sales[Store ID]
 ### Project Insights 
 
 #### 📊 Sales Overview (Financial performance) (page 1)
+![image](https://github.com/user-attachments/assets/29f58199-979a-4fea-8efa-ab299cc31a89)
+
 Over the five-year period (2020–2024), the fashion retail business generated strong and consistent financial performance with stable profitability and minimal volatility.
 
 ##### Questions Answered:
