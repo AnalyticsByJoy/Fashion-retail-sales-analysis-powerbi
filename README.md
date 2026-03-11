@@ -452,7 +452,3 @@ Store-level analysis further supports this stability, with revenue distributed f
 
 Overall, the findings suggest that the retailer operates with a balanced product portfolio, loyal customer base, and stable operational structure, providing a strong foundation for sustained performance.
 
-
-**Back to the top**
-<a
-href="https://github.com/AnalyticsByJoy/Fashion-retail-sales-analysis-powerbi/edit/main/README.md#fashion-retail-sales-insights--data-modeling-dax--performance-insights-20202024">Back to the top</a>
