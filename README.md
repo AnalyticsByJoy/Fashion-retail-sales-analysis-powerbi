@@ -5,7 +5,6 @@
 
 [Process](#process)
 
-###### Project Insights:
 [📊 Sales Overview | page 1](#-sales-overview--page-1)
 
 [👥 Customer Insights | page 2](#-customer-insights--page-2)
