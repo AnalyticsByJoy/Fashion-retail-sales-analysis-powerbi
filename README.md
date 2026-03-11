@@ -16,7 +16,7 @@
 
 [Strategic Recommendations](#strategic-recommendations)
 
-[Comclusion](conclusion)
+[Conclusion](conclusion)
 
 **Dataset Used:** 
 <a
@@ -451,3 +451,8 @@ From a product perspective, revenue is well distributed across categories, seaso
 Store-level analysis further supports this stability, with revenue distributed fairly evenly across locations and regions. While smaller stores appear to achieve higher space efficiency, overall store performance differences remain relatively small.
 
 Overall, the findings suggest that the retailer operates with a balanced product portfolio, loyal customer base, and stable operational structure, providing a strong foundation for sustained performance.
+
+
+**Back to the top**
+<a
+href="https://github.com/AnalyticsByJoy/Fashion-retail-sales-analysis-powerbi/edit/main/README.md#fashion-retail-sales-insights--data-modeling-dax--performance-insights-20202024">Back to the top</a>
